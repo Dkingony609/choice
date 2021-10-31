@@ -1,0 +1,9 @@
+nav {
+  background: linear-gradient(to right, darkblue, rebeccapurple);
+  color: #fff;
+  padding: 1px;
+}
+
+h2 {
+  margin: 1rem;
+}
